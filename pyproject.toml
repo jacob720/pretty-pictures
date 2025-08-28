@@ -8,6 +8,8 @@ classifiers = [
 ]
 dependencies = [
     "pillow",
+    "numpy",
+    "imageio[ffmpeg]"
 ]
 
 dynamic = ["version"]

@@ -11,9 +11,9 @@ class Template:
     velocity_r: float
     velocity_g: float
     velocity_b: float
-    weight_r: float = 1.0
-    weight_g: float = 1.0
-    weight_b: float = 1.0
+    level_r: float = 1.0
+    level_g: float = 1.0
+    level_b: float = 1.0
     turn_back_r: bool = False
     turn_back_g: bool = False
     turn_back_b: bool = False
